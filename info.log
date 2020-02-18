@@ -14,3 +14,17 @@
 {"message":"Bookmark with id 123 not found","level":"error"}
 {"message":"Bookmark with id a1a6193e-1c65-452d-ac1d-b40665768223 created","level":"info"}
 {"message":"Bookmark with id a1a6193e-1c65-452d-ac1d-b40665768223 deleted","level":"info"}
+{"message":"Unauthorized request to path: /favicon.ico","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Bookmark with id 2 not found","level":"error"}
+{"message":"Bookmark with id 1234 not found","level":"error"}
+{"message":"Bookmark with id 123456 not found","level":"error"}
