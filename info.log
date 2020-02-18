@@ -28,3 +28,8 @@
 {"message":"Bookmark with id 2 not found","level":"error"}
 {"message":"Bookmark with id 1234 not found","level":"error"}
 {"message":"Bookmark with id 123456 not found","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/1","level":"error"}
+{"message":"Bookmark with id 123456 not found","level":"error"}
